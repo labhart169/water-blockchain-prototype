@@ -1,0 +1,14 @@
+{
+  "name": "water-audit-chain",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "test": "truffle test"
+  },
+  "dependencies": {
+    "@openzeppelin/contracts": "^5.0.2"
+  },
+  "devDependencies": {
+    "truffle": "^5.11.5"
+  }
+}
