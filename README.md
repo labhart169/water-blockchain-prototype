@@ -37,7 +37,5 @@ This prototype demonstrates a **hybrid on-chain / off-chain architecture** suita
 - ✅ Integrity is ensured using **SHA-256 hash anchoring**
 - ✅ Roles are enforced using **permissioned smart contracts**
 
----
 
-## Architecture Overview
 
